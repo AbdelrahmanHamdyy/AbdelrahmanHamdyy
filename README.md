@@ -10,6 +10,7 @@
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="320"/>
 
 <br />
+<br />
 
 **"Hard work beats talent when talent doesn't work hard."**
 
