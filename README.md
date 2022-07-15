@@ -12,7 +12,7 @@
 <br />
 <br />
 
-**"Hard work beats talent when talent doesn't work hard."**
+***"Hard work beats talent when talent doesn't work hard."***
 
   <img src="neon.gif">
   
