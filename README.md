@@ -2,14 +2,17 @@
 
   <img src="https://camo.githubusercontent.com/bc109ebf393b45e7e54faaf8d9bc9c7866883640a5682be7c8529be55edf1149/68747470733a2f2f7332373338392e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f41646f626553746f636b5f3234343637353435322e6a706567" alt="Coder GIF" width="400" height="300">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+  
 </p>-->
 
 <div align="center">
   
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="320"/>
 
-**"First, solve the problem. Then, write the code."**
+<br />
+<br />
+
+***"Hard work beats talent when talent doesn't work hard."***
 
   <img src="neon.gif">
   
