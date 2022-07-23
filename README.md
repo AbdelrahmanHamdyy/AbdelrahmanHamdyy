@@ -75,7 +75,7 @@
 
 - 🚧 I'm currently focused on Backend Web Development and Problem Solving
 
-- 💬 Ask me about anything related to the Computer Science field
+- 💬 Ask me about anything related to the Computer Science field, I'll be happy to help!
 
 # 🧰 My Skills
 
