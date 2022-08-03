@@ -60,7 +60,7 @@
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
 - 🔭 Software Engineer Intern <a href="https://www.master-micro.com/">@Master Micro</a>
 
@@ -129,7 +129,7 @@
 
 <br/>
 
-# :trophy: Git profile Trophies
+# :trophy: Git Profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman0123&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
