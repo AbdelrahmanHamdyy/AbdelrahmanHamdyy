@@ -32,20 +32,12 @@
 
 <a href="https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/"><img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
- <!-- <a href="https://www.facebook.com/abdelrahman.alsayed.9/">
-  <img align="left" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
-</a> -->
-
   <a href="https://www.facebook.com/abdelrahman.alsayed.9/">
   <img align="left" alt="Facebook" width="30px" src="https://user-images.githubusercontent.com/76125650/139602215-302fea84-764a-45f9-8ca2-d623ede28c3c.png" draggable="false" />
 </a>
 
 <a href="https://www.instagram.com/_abdelrahman10/">
   <img align="left" alt="Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
-  
- <!-- <a href="https://github.com/abdelrahman0123">
-  <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a> -->
   
   <a href="https://github.com/abdelrahman0123">
   <img align="left" alt="Github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
@@ -56,7 +48,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Abdelrahman0123">
-  <img align="left" alt="Codeforces" width="37px" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="Codeforces" width="37px" src="https://github.com/abdelrahman0123/abdelrahman0123/blob/main/codeforces.png?raw=true" draggable="false" />
 </a> 
   
 <a href="https://www.hackerrank.com/abdelrahman0123?hr_r=1">
@@ -70,10 +62,11 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
+- 🔭 Software Engineer Intern @Master Micro
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 🏃‍♂️ I am passionate about learning more day by day
 
-- 🚧 I'm currently focused on Backend Web Development and Problem Solving
+- 🚧 I'm currently focused on Backend Web Development, Databases and Problem Solving
 
 - 💬 Ask me about anything related to the Computer Science field, I'll be happy to help!
 
