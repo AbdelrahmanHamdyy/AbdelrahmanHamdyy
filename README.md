@@ -63,9 +63,13 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 - 🔭 Software Engineer Intern <a href="https://www.master-micro.com/">@Master Micro</a>
+
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+
 - 🏃‍♂️ I am passionate about learning more day by day
+
 - 🚧 I'm currently focused on Backend Web Development, Databases and Problem Solving
+
 - 💬 Ask me about anything related to the Computer Science field, I'll be happy to help!
 
 # 🧰 My Skills
