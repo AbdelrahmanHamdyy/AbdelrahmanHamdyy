@@ -14,7 +14,7 @@
 
 ***"Hard work beats talent when talent doesn't work hard."***
 
-  <img src="neon.gif">
+  <img src="images/neon.gif">
   
  <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/abdelrahman0123?&a=0"> 
@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Abdelrahman0123">
-  <img align="left" alt="Codeforces" width="37px" src="https://github.com/abdelrahman0123/abdelrahman0123/blob/main/codeforces.png?raw=true" draggable="false" />
+  <img align="left" alt="Codeforces" width="37px" src="images/codeforces.png" draggable="false" />
 </a> 
   
 <a href="https://www.hackerrank.com/abdelrahman0123?hr_r=1">
@@ -91,12 +91,12 @@
 <code><img height="40" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" title="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" title="Assembly" src="asm.png"></code>
+<code><img height="40" title="Assembly" src="images/asm.png"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" title="Bootstrap" src="bootstrap.png"></code>
+<code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
 <code><img height="40" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" title="QT" width="40" height="40"/></code>
 <code><img height="40" title="Matlab" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
