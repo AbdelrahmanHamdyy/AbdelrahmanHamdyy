@@ -25,7 +25,7 @@
 
 </div>
 
-# Hey<img src="wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
+# Hey<img src="images/wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
 
 <br/>
 <div align="center">
