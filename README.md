@@ -66,11 +66,11 @@
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- 🏃‍♂️ I am passionate about learning more day by day
+- 🏃‍♂️ I am passionate about the field of Computer Science and how it progresses everyday
 
-- 🚧 I'm currently focused on Backend Web Development, Databases and Problem Solving
+- 🚧 I'm currently focused on Backend Web Development, AI and Problem Solving
 
-- 💬 Ask me about anything related to the Computer Science field, I'll be happy to help!
+- 💬 Ask me about anything, I'll be happy to help!
 
 # 🧰 My Skills
 
