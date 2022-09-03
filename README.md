@@ -101,6 +101,7 @@
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
 <code><img height="40" title="Tailwind" src="images/tailwindcss.svg"></code>
+<code><img height="40" width="40" title="Alpine JS" src="images/alpine.png"></code>
 <code><img height="40" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" title="QT" width="40" height="40"/></code>
 
