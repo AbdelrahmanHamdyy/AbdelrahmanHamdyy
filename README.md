@@ -14,7 +14,7 @@
 
 ***"Hard work beats talent when talent doesn't work hard."***
 
-  <img src="neon.gif">
+  <img src="images/neon.gif">
   
  <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/abdelrahman0123?&a=0"> 
@@ -25,7 +25,7 @@
 
 </div>
 
-# Hey<img src="wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
+# Hey<img src="images/wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
 
 <br/>
 <div align="center">
@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/Abdelrahman0123">
-  <img align="left" alt="Codeforces" width="37px" src="https://github.com/abdelrahman0123/abdelrahman0123/blob/main/codeforces.png?raw=true" draggable="false" />
+  <img align="left" alt="Codeforces" width="37px" src="images/codeforces.png" draggable="false" />
 </a> 
   
 <a href="https://www.hackerrank.com/abdelrahman0123?hr_r=1">
@@ -66,11 +66,11 @@
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
-- 🏃‍♂️ I am passionate about learning more day by day
+- 🏃‍♂️ I am passionate about the field of Computer Science and how it progresses everyday
 
-- 🚧 I'm currently focused on Backend Web Development, Databases and Problem Solving
+- 🚧 I'm currently focused on Backend Web Development, AI and Problem Solving
 
-- 💬 Ask me about anything related to the Computer Science field, I'll be happy to help!
+- 💬 Ask me about anything, I'll be happy to help!
 
 # 🧰 My Skills
 
@@ -91,12 +91,12 @@
 <code><img height="40" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" title="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" title="Assembly" src="asm.png"></code>
+<code><img height="40" title="Assembly" src="images/asm.png"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" title="Bootstrap" src="bootstrap.png"></code>
+<code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
 <code><img height="40" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" title="QT" width="40" height="40"/></code>
 <code><img height="40" title="Matlab" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
@@ -133,7 +133,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman0123&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1lhXlKNpo0BJRxgbmn41dA_SvP4yB_UCI/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
+<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1hFyIn9gE7WadnghfYJHayiabI5TggLS6/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdelrahman0123)-->
