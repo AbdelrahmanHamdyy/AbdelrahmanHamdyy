@@ -62,7 +62,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
-- 🔭 Software Engineer Intern <a href="https://www.master-micro.com/">@Master Micro</a>
+- 🔭 Former Software Engineer Intern <a href="https://www.master-micro.com/">@Master Micro</a>
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
