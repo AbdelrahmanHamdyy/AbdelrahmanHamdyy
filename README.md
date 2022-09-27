@@ -97,7 +97,7 @@
 <code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
 <code><img height="40" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" title="Sequelise" src="images/sequelize.svg"></code>
+<code><img height="40" title="Sequelize" src="images/sequelize.svg"></code>
 <code><img height="40" title="Mongodb" src="images/mongodb.svg"></code>
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
 
@@ -147,7 +147,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman0123&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1GiuVnmnxgMLsKqfSsXugmHJH2IwM_RLX/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
+<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1w-sRA32h4Xgs9jf1GULZ9InvAsclwD-v/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdelrahman0123)-->
