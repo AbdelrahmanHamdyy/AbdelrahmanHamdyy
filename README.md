@@ -88,6 +88,7 @@
 <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="Assembly" src="images/asm.png"></code>
 <code><img height="40" title="Matlab" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+
 <br />
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
@@ -98,7 +99,8 @@
 <code><img height="40" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" title="Sequelise" src="images/sequelize.svg"></code>
 <code><img height="40" title="Mongodb" src="images/mongodb.svg">
-<code><img height="40" title="Mongoose" src="images/mongoose.svg">
+<code><img height="40" title="Mongoose" src="images/mongoose.png">
+
 <br />
 <code><img height="40" title="PostgreSQL" src="images/Postgresql.svg"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
