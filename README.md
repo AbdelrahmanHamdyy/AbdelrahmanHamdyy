@@ -62,6 +62,8 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
+- 🔭 Full Stack Web Developer <a href="https://www.corporatica.com/">@Corporatica</a>
+
 - 🔭 Former Software Engineer Intern <a href="https://www.master-micro.com/">@Master Micro</a>
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
@@ -147,7 +149,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman0123&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1w-sRA32h4Xgs9jf1GULZ9InvAsclwD-v/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
+<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1gdFdO5fDLIJGVkD9QI6QAgG0L6OXudUn/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdelrahman0123)-->
