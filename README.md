@@ -140,9 +140,7 @@
 
 # ⚡ Recent GitHub Activity
 
-  <br/>
-   <a href="https://github.com/abdelrahman0123"><img alt="Abdelrahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdelrahman0123&custom_title=Abdelrahman's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  [![Abdelrahman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdelrahman0123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/abdelrahman0123/github-readme-activity-graph)
 
 <br/>
 
