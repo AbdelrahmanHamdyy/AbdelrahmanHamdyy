@@ -140,7 +140,7 @@
 
 # ⚡ Recent GitHub Activity
 
-  [![Abdelrahman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdelrahman0123&theme=react-dark&point=24292e&area=true&hide_border=true)](https://github.com/abdelrahman0123/github-readme-activity-graph)
+  [![Abdelrahman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdelrahman0123&theme=react-dark&point=ffffff&hide_border=true)](https://github.com/abdelrahman0123/github-readme-activity-graph)
 
 <br/>
 
