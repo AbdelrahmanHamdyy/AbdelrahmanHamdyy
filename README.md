@@ -21,7 +21,7 @@
     
   </a> -->
 
-![Profile views](https://gpvc.arturio.dev/AbdelrahmanHamdyy) <!-- [![Repos Badge](https://badges.pufler.dev/repos/AbdelrahmanHamdyy)](https://badges.pufler.dev) -->
+<img src="https://komarev.com/ghpvc/?username=AbdelrahmanHamdyy&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelrahmanHamdyy" />
 
 </div>
 
@@ -144,11 +144,11 @@
 
 <br/>
 
-# :trophy: Git Profile Trophies
+# :trophy: Github Profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanHamdyy&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1Jeq_j519HUZz4qBbkyU65Ez9_Q57juMt/view?usp=share_link" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
+<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1eI150i-VT5MPoaT52uWaa_2e4An-tZ0A/view?usp=share_link" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanHamdyy)-->
