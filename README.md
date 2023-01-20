@@ -1,10 +1,3 @@
-<!--<p align="center">
-
-  <img src="https://camo.githubusercontent.com/bc109ebf393b45e7e54faaf8d9bc9c7866883640a5682be7c8529be55edf1149/68747470733a2f2f7332373338392e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f41646f626553746f636b5f3234343637353435322e6a706567" alt="Coder GIF" width="400" height="300">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>-->
-
 <div align="center">
   
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="320"/>
@@ -12,14 +5,9 @@
 <br />
 <br />
 
-***"Hard work beats talent when talent doesn't work hard."***
+**_"Hard work beats talent when talent doesn't work hard."_**
 
-  <img src="images/neon.gif">
-  
- <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/AbdelrahmanHamdyy?&a=0"> 
-    
-  </a> -->
+<img src="images/neon.gif">
 
 <img src="https://komarev.com/ghpvc/?username=AbdelrahmanHamdyy&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelrahmanHamdyy" />
 
@@ -128,8 +116,6 @@
 
 ![Abdelrahman's github stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanHamdyy&show_icons=true&theme=algolia&count_private=true)
 
-  <br>
-  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanHamdyy&count_private=true&theme=algolia)
 
 ![AbdelrahmanHamdyy github streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanHamdyy&theme=algolia&include_all_commits=true&count_private=true)
@@ -140,33 +126,14 @@
 
 # ⚡ Recent GitHub Activity
 
-  [![Abdelrahman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdelrahmanHamdyy&theme=react-dark)](https://github.com/AbdelrahmanHamdyy/github-readme-activity-graph)
+[![Abdelrahman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdelrahmanHamdyy&theme=react-dark)](https://github.com/AbdelrahmanHamdyy/github-readme-activity-graph)
 
 <br/>
 
-# :trophy: Github Profile Trophies
+# 🏆 Github Profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanHamdyy&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
+<hr>
 <h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1eI150i-VT5MPoaT52uWaa_2e4An-tZ0A/view?usp=share_link" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdelrahmanHamdyy)-->
-<!-- <h1 align="center">
-
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</h1> -->
-<!--
-**AbdelrahmanHamdyy/AbdelrahmanHamdyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
