@@ -10,8 +10,6 @@
 <img src="images/neon.gif">
 
 <img src="https://komarev.com/ghpvc/?username=AbdelrahmanHamdyy&label=Profile%20views&color=0e75b6&style=flat" alt="AbdelrahmanHamdyy" />
-  
-[![Most Active GitHub User Rank](https://en7wk5xej1s55cw.m.pipedream.net/)](https://commits.top/egypt.html)
 
 </div>
 
