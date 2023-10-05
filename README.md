@@ -50,9 +50,11 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
-- 🔭 Full Stack Developer <a href="https://www.ejada.com/">@EJADA</a>
+- 🔭 Full Stack Developer @Bondo</a>
 
-- 🔭 Former Software Developer <a href="https://www.corporatica.com/">@Corporatica</a>
+- 🔭 CRM Intern <a href="https://www.ejada.com/">@EJADA</a>
+
+- 🔭 Former Software Developement Intern <a href="https://www.corporatica.com/">@Corporatica</a>
 
 - 🔭 Former SWE Intern <a href="https://www.master-micro.com/">@Master Micro</a>
 
