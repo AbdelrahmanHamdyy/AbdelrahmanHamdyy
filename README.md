@@ -50,7 +50,11 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
-- 🔭 Full-Stack Web Developer <a href="https://www.corporatica.com/">@Corporatica</a>
+- 🔭 Full Stack Developer @Bondo</a>
+
+- 🔭 CRM Intern <a href="https://www.ejada.com/">@EJADA</a>
+
+- 🔭 Former Software Developement Intern <a href="https://www.corporatica.com/">@Corporatica</a>
 
 - 🔭 Former SWE Intern <a href="https://www.master-micro.com/">@Master Micro</a>
 
@@ -135,5 +139,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanHamdyy&layout=compact&theme=algolia" alt="Abdelrahman" /></a> </p>
 
 <hr>
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1WldevwQBV9bMXDtXMZC7zpTLB2Avi9F3/view?usp=share_link" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
+<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1RfLsbFiCx4e8bSneMKGVv7fkjq-nYKTV/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20" > </a>  </h2>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
