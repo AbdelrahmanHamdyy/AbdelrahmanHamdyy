@@ -1,8 +1,7 @@
 <div align="center">
   
-<img src="./animation.gif" height="440" width="500"/>
+<img src="./animation.gif" height="450" width="500"/>
 
-<br />
 <br />
 
 **_"Hard work beats talent when talent doesn't work hard."_**
@@ -35,7 +34,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/AbdelrahmanHamdyy">
-  <img align="left" alt="Codeforces" width="37px" src="images/codeforces.png" draggable="false" />
+  <img align="left" alt="Codeforces" width="30px" src="images/codeforces.svg" draggable="false" />
 </a> 
   
 <a href="https://www.hackerrank.com/AbdelrahmanHamdyy?hr_r=1">
@@ -68,19 +67,19 @@
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" title="Java" src="./images/java.png"></code>
+<code><img height="40" title="Linux" src="./images/linux.png"></code>
 <code><img height="40" title="Assembly" src="images/asm.png"></code>
-<code><img height="40" title="Matlab" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
+<code><img height="40" title="Matlab" src="./images/matlab.png"></code>
 
 <br />
   
-<code><img height="40" title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" title="ExpressJS" src="images/express.svg"></code>
-<code><img height="40" title="Socket IO" src="images/socketio.png"></code>
+<code><img height="40" title="NodeJS" src="images/node.png"></code>
+<code><img height="40" title="ExpressJS" src="images/express.png"></code>
 <code><img height="40" title="ReactJS" src="images/react.svg"></code>
+<code><img height="44" title="Angular" src="images/angular.png"></code>
 <code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
-<code><img height="40" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" title="MYSQL" src="./images/mysql.png"></code>
 <code><img height="40" title="Sequelize" src="images/sequelize.svg"></code>
 <code><img height="40" title="Mongodb" src="images/mongodb.svg"></code>
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
@@ -89,9 +88,9 @@
   
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" title="Git" src="./images/git.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" title="Laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="40" title="Laravel" src="./images/laravel.png"></code>
 <code><img height="40" title="PostgreSQL" src="images/Postgresql.svg"></code>
 <code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
 <code><img height="40" title="Tailwind" src="images/tailwindcss.svg"></code>
