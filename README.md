@@ -12,7 +12,7 @@
 
 </div>
 
-# Hey<img src="images/wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
+# Hey<img src="images/wave.gif" width="40px" height="40px"> I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
 
 <div align="center">
 
@@ -95,6 +95,7 @@
 <code><img height="40" title="Sequelize" src="images/sequelize.svg"></code>
 <code><img height="40" title="Mongodb" src="images/mongodb.svg"></code>
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
+<code><img height="40" title="Docker" src="images/docker.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 <br />
