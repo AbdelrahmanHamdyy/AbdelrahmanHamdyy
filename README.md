@@ -1,7 +1,8 @@
 <div align="center">
   
-<img src="./animation.gif" height="360" width="430"/>
+<img src="./animation.gif" height="400" width="430"/>
 
+<br />
 <br />
 
 **_"Hard work beats talent when talent doesn't work hard."_**
@@ -24,7 +25,7 @@
 </a>
 
 <a href="https://www.instagram.com/_abdelrahman10/">
-  <img align="left" alt="Instagram" width="30px" src="./images/instagram.png" height="31" draggable="false" /></a>
+  <img align="left" alt="Instagram" width="33px" src="./images/instagram.png" height="33" draggable="false" /></a>
   
   <a href="https://github.com/AbdelrahmanHamdyy">
   <img align="left" alt="Github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
