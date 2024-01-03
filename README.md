@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="320"/>
+<img src="./animation.gif" height="360" width="400"/>
 
 <br />
 <br />
