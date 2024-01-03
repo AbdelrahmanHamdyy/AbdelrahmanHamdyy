@@ -75,7 +75,10 @@
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" title="TypeScript" src="./images/typescript.png"></code>
 <code><img height="40" width="34" title="Java" src="./images/java.png"></code>
+<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" title="Linux" src="./images/linux.png"></code>
 <code><img height="40" title="Assembly" src="images/asm.png"></code>
 <code><img height="40" title="Matlab" src="./images/matlab.png"></code>
@@ -87,22 +90,24 @@
 <code><img height="40" title="ReactJS" src="images/react.svg"></code>
 <code><img height="44" title="Angular" src="images/angular.png"></code>
 <code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
+<code><img height="40" title="Jest" src="images/jest.png"></code>
 <code><img height="40" title="MYSQL" src="./images/mysql.png"></code>
 <code><img height="40" title="Sequelize" src="images/sequelize.svg"></code>
 <code><img height="40" title="Mongodb" src="images/mongodb.svg"></code>
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
 
 <br />
-  
-<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
 <code><img height="40" title="Git" src="./images/git.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" title="Laravel" src="./images/laravel.png"></code>
 <code><img height="40" title="PostgreSQL" src="images/Postgresql.svg"></code>
 <code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
 <code><img height="40" title="Tailwind" src="images/tailwindcss.svg"></code>
+<code><img height="40" width="40" title="Materialize" src="images/materialize.svg"></code>
 <code><img height="40" width="40" title="Alpine JS" src="images/alpine.png"></code>
+<code><img height="40" width="40" title="Tensorflow" src="images/tensorflow.png"></code>
+<code><img height="40" width="40" title="Pytorch" src="images/pytorch.svg"></code>
 
 </div>
 
