@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./animation.gif" height="400" width="440"/>
+<img src="./animation.gif" height="440" width="480"/>
 
 <br />
 <br />
