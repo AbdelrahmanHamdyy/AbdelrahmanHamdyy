@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./animation.gif" height="400" width="430"/>
+<img src="./animation.gif" height="400" width="440"/>
 
 <br />
 <br />
@@ -15,7 +15,6 @@
 
 # Hey<img src="images/wave.gif" width="40px" height="40px">, I'm [Abdelrahman!](https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/)
 
-<br/>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdelrahman-hamdy-b42233194/"><img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
