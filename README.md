@@ -33,6 +33,10 @@
   <img align="left" alt="Gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
 </a>
 
+<a href="https://www.kaggle.com/abdelrahmanhamdyy">
+  <img align="left" alt="Kaggle" width="30px" src="./images/kaggle.png" draggable="false" />
+</a>
+
 <a href="https://codeforces.com/profile/AbdelrahmanHamdyy">
   <img align="left" alt="Codeforces" width="30px" src="images/codeforces.svg" draggable="false" />
 </a> 
