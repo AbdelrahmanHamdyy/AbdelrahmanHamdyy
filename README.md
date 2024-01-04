@@ -63,7 +63,7 @@
   - CRM Intern <a href="https://www.ejada.com/">@EJADA</a>
   - Software Engineering Intern <a href="https://www.master-micro.com/">@Master Micro</a>
   - Web Development Intern <a href="https://corporatica.com/">@Corporatica</a>
-  - Artificial Inelligence Trainee <a href="https://iti.gov.eg/iti/home">@ITI</a>
+  - Artificial Intelligence Trainee <a href="https://iti.gov.eg/iti/home">@ITI</a>
   - Web Developer <a href="https://www.thesparksfoundationsingapore.org/">@The Sparks Foundation</a>
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
