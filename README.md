@@ -82,6 +82,7 @@
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" title="Assembly" src="images/asm.png"></code>
 <code><img height="40" title="Matlab" src="./images/matlab.png"></code>
+<code><img height="40" width="60" title="OpenGL" src="./images/opengl.svg"></code>
 
 <br />
   
@@ -100,6 +101,7 @@
 
 <br />
 
+<code><img height="40" title="Arduino" src="./images/arduino.png"></code>
 <code><img height="40" title="Linux" src="./images/linux.png"></code>
 <code><img height="40" title="Git" src="./images/git.png"></code>
 <code><img height="40" title="Laravel" src="./images/laravel.png"></code>
