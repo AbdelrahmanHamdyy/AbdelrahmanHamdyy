@@ -106,6 +106,7 @@
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
 <code><img height="40" title="Docker" src="images/docker.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" title="MS Dynamics 365" src="images/dynamics.png"></code>
 
 <br />
 
