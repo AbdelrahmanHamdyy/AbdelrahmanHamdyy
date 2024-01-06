@@ -151,4 +151,5 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanHamdyy&layout=compact&theme=algolia" alt="Abdelrahman" /></a></p>
 
-<h2 align="center">Have a Look at my CV: <a href="https://drive.google.com/file/d/1cxTalhWXNup0OLAHLQTpZDITg0ixeofL/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20"></a></h2>
+<hr>
+<h2 align="center">Click here to view my CV: <a href="https://drive.google.com/file/d/1cxTalhWXNup0OLAHLQTpZDITg0ixeofL/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="20" width="20"></a></h2>
