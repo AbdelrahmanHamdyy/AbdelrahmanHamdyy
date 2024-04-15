@@ -96,8 +96,8 @@
 <br />
   
 <code><img height="40" title="NodeJS" src="images/node.png"></code>
-<code><img height="40" title="ExpressJS" src="images/nestjs.svg"></code>
-<code><img height="40" title="NestJS" src="images/express.png"></code>
+<code><img height="40" title="ExpressJS" src="images/express.png"></code>
+<code><img height="40" title="NestJS" src="images/nestjs.svg"></code>
 <code><img height="40" title="ReactJS" src="images/react.svg"></code>
 <code><img height="44" title="Angular" src="images/angular.png"></code>
 <code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
