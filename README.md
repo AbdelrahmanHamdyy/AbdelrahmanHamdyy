@@ -86,6 +86,7 @@
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="TypeScript" src="./images/typescript.png"></code>
 <code><img height="40" width="34" title="Java" src="./images/java.png"></code>
+<code><img height="40" width="60" title="Golang" src="./images/golang.png"></code>
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" title="Assembly" src="images/asm.png"></code>
@@ -95,7 +96,8 @@
 <br />
   
 <code><img height="40" title="NodeJS" src="images/node.png"></code>
-<code><img height="40" title="ExpressJS" src="images/express.png"></code>
+<code><img height="40" title="ExpressJS" src="images/nestjs.svg"></code>
+<code><img height="40" title="NestJS" src="images/express.png"></code>
 <code><img height="40" title="ReactJS" src="images/react.svg"></code>
 <code><img height="44" title="Angular" src="images/angular.png"></code>
 <code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
@@ -106,10 +108,10 @@
 <code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
 <code><img height="40" title="Docker" src="images/docker.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" title="MS Dynamics 365" src="images/dynamics365.png"></code>
 
 <br />
 
+<code><img height="40" title="MS Dynamics 365" src="images/dynamics365.png"></code>
 <code><img height="40" title="Arduino" src="./images/arduino.png"></code>
 <code><img height="40" title="Linux" src="./images/linux.png"></code>
 <code><img height="40" title="Git" src="./images/git.png"></code>
