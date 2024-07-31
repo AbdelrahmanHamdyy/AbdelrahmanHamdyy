@@ -67,7 +67,7 @@
   - Artificial Intelligence Trainee <a href="https://iti.gov.eg/iti/home">@ITI</a>
   - Web Developer <a href="https://www.thesparksfoundationsingapore.org/">@The Sparks Foundation</a>
 
-- 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 Computer Engineering Graduate - <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
 
 - 🏃‍♂️ I am passionate about the field of Computer Science and how it progresses everyday
 
