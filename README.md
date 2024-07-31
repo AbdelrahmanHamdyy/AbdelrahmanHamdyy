@@ -56,10 +56,11 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About Me
 
-- 🔭 Full Stack Developer <a href="https://www.linkedin.com/in/morten-bondo-60894a87/">@Bondo</a>
+- 🔭 Backend Engineer <a href="https://thndr.app/">@Thndr</a>
 
 - 🔭 Past Experiences:
 
+  - Full Stack Developer <a href="https://www.linkedin.com/in/morten-bondo-60894a87/">@Bon.do ApS</a>
   - CRM Intern <a href="https://www.ejada.com/">@EJADA</a>
   - Software Engineering Intern <a href="https://www.master-micro.com/">@Master Micro</a>
   - Web Development Intern <a href="https://corporatica.com/">@Corporatica</a>
